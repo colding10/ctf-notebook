@@ -7,3 +7,7 @@ copied from my CP plugin, it just uses telescope on a folder with some snippets/
 
 ## solves 
 
+## writeups
+
+not here mostly at bing chilling academeis site
+i dont have many anyways
